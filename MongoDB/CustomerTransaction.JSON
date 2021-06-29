@@ -1,0 +1,83 @@
+
+{"Id":1, "City":"Braga"}
+{"Id":2, "City":"Lisboa"}
+{"Id":3, "City":"Porto"}
+{"Id":4, "City":"Guimarães"}
+{"Id":5, "City":"Viana do Castelo"}
+{"Id":6, "City":"Vila do Conde"}
+{"Id":7, "City":"Funchal"}
+{"Id":8, "City":"Évora"}
+{"Id":9, "City":"Viseu"}
+{"Id":1,"Postal_Code":"4230-223", "Street":"Rua das Quintas",			"House":13,		"City_Id":1}
+{"Id":2,"Postal_Code":"4240-234", "Street":"Primeira rua",				"House":19,		"City_Id":2}
+{"Id":3,"Postal_Code":"4222-340", "Street":"Avenida dos Congregados",	"House":5,		"City_Id":3}
+{"Id":4,"Postal_Code":"4315-120", "Street":"Rua de Santa-Marta",		"House":12,		"City_Id":1}
+{"Id":5,"Postal_Code":"4903-090", "Street":"Segunda Rua",				"House":21,		"City_Id":1}
+{"Id":6,"Postal_Code":"4020-890", "Street":"Avenida das ameixas",		"House":9,		"City_Id":3}
+{"Id":7,"Postal_Code":"4730-710", "Street":"Rua do lado",				"House":4,		"City_Id":9}
+{"Id":8,"Postal_Code":"4330-100", "Street":"Avenida Pimenta",			"House":120,	"City_Id":1}
+{"Id":9,"Postal_Code":"4044-220", "Street":"Rua do meio",				"House":18,		"City_Id":2}
+{"Id":10,"Postal_Code":"4208-310","Street":"Rua torta", 				"House":31,		"City_Id":4}
+{"Customer_Id":1, 	"Phone_Number":223244561 }
+{"Customer_Id":2, 	"Phone_Number":253601105 }
+{"Customer_Id":3, 	"Phone_Number":223241231 }
+{"Customer_Id":4, 	"Phone_Number":920223123 }
+{"Customer_Id":5, 	"Phone_Number":912444544 }
+{"Customer_Id":6, 	"Phone_Number":242345679 }
+{"Customer_Id":7, 	"Phone_Number":218345732 }
+{"Customer_Id":8, 	"Phone_Number":920284349 }
+{"Customer_Id":9, 	"Phone_Number":939475618 }
+{"Customer_Id":10, 	"Phone_Number":962581891 }
+{"Customer_Id":10, 	"Phone_Number":911234092 }
+{"Customer_Id":11, 	"Phone_Number":961238257 }
+{"Customer_Id":11, 	"Phone_Number":923459989 }
+{"Customer_Id":12, 	"Phone_Number":962843849 }
+{"Customer_Id":12, 	"Phone_Number":915758282 }
+{"Customer_Id":13, 	"Phone_Number":964728123 }
+{"Customer_Id":13, 	"Phone_Number":253601154 }
+{"Customer_Id":13, 	"Phone_Number":223561363 }
+{"Id":1, 	"Total":210.99,	"Date_Sold":"2018/09/12","Customer_Id":2}
+{"Id":2, 	"Total":1169.98,"Date_Sold":"2018/09/12","Customer_Id":2}
+{"Id":3, 	"Total":47.99,	"Date_Sold":"2018/11/02","Customer_Id":2}
+{"Id":4, 	"Total":199.99,	"Date_Sold":"2018/09/12","Customer_Id":11}
+{"Id":5, 	"Total":19.99,	"Date_Sold":"2018/07/12","Customer_Id":1}
+{"Id":6, 	"Total":30.99,	"Date_Sold":"2018/06/18","Customer_Id":10}
+{"Id":7, 	"Total":129.99,	"Date_Sold":"2018/11/18","Customer_Id":13}
+{"Id":8, 	"Total":615.00,	"Date_Sold":"2018/11/20","Customer_Id":7}
+{"Id":9,	"Total":64.99,	"Date_Sold":"2018/10/09","Customer_Id":9}
+{"Id":10, 	"Total":859.99,	"Date_Sold":"2018/09/12","Customer_Id":3}       
+{"Id":11, 	"Total":445.00,	"Date_Sold":"2018/09/12","Customer_Id":4}
+{"Id":12, 	"Total":240.98,	"Date_Sold":"2018/09/12","Customer_Id":12}
+{"Id":13, 	"Total":99.99,	"Date_Sold":"2018/11/02","Customer_Id":6}
+{"Id":14, 	"Total":99.09,	"Date_Sold":"2018/09/12","Customer_Id":5}
+{"Id":15, 	"Total":29.99,	"Date_Sold":"2018/07/12","Customer_Id":4}
+{"Id":16, 	"Total":129.99,	"Date_Sold":"2018/06/18","Customer_Id":14}
+{"Id":17, 	"Total":110.99,	"Date_Sold":"2018/11/18","Customer_Id":14}
+{"Id":18, 	"Total":445.00,	"Date_Sold":"2018/11/20","Customer_Id":9}
+{"Id":19, 	"Total":39.99,	"Date_Sold":"2018/10/09","Customer_Id":8}
+{"Id":20, 	"Total":110.99,	"Date_Sold":"2018/09/12","Customer_Id":15}
+{"Returned":1,	"Date_Returned":"2018/11/05",	"Product_Bar_Code":36,		"Sale_Id":3,			"Customer_Id":2}
+{"Returned":2,	"Date_Returned":"2018/11/22",	"Product_Bar_Code":7,		"Sale_Id":8,			"Customer_Id":7}
+{"Returned":3,	"Date_Returned":"2018/11/01",	"Product_Bar_Code":15,		"Sale_Id":19,			"Customer_Id":8}
+{"Returned":4,	"Date_Returned":"2018/11/05",	"Product_Bar_Code":54,		"Sale_Id":13,			"Customer_Id":6}
+{"Returned":5,	"Date_Returned":"2018/09/14",	"Product_Bar_Code":16,		"Sale_Id":12,			"Customer_Id":12}
+{"Returned":6,	"Date_Returned":"2018/09/16",	"Product_Bar_Code":24,		"Sale_Id":4,			"Customer_Id":11}
+{"Returned":7,	"Date_Returned":"2018/09/13",	"Product_Bar_Code":32,		"Sale_Id":1,			"Customer_Id":2}
+{"Returned":8,	"Date_Returned":"2018/11/20",	"Product_Bar_Code":50,		"Sale_Id":17,			"Customer_Id":14}
+{"Returned":9,	"Date_Returned":"2018/09/13",	"Product_Bar_Code":9,		"Sale_Id":2,			"Customer_Id":2}
+{"Returned":10,	"Date_Returned":"2018/09/20",	"Product_Bar_Code":29,		"Sale_Id":11,			"Customer_Id":4}
+{"Id":1,	"First_Name":"António",		"Last_Name":"Ramalho",	"Email":"ramas@gmail.com",		"Date_of_Birth":"1980/03/10",	"NIB":495031257, "Address_Id":2}
+{"Id":2,	"First_Name":"Tomas",		"Last_Name":"Taveira",	"Email":"totavas@gmail.com",	"Date_of_Birth":"1975/07/25",	"NIB":454738342, "Address_Id":2}
+{"Id":3,	"First_Name":"Rui",			"Last_Name":"Torres",	"Email":"rTorres2000@gmail.com","Date_of_Birth":"2000/01/17",	"NIB":365672511, "Address_Id":8}
+{"Id":4,	"First_Name":"André",		"Last_Name":"Carvalho",	"Email":"andcarva@gmail.com",	"Date_of_Birth":"1993/08/02",	"NIB":35645301, "Address_Id":3}
+{"Id":5,	"First_Name":"Lionel",		"Last_Name":"Pereira",	"Email":"lionira@gmail.com",	"Date_of_Birth":"1990/12/30",	"NIB":446563304, "Address_Id":9}
+{"Id":6,	"First_Name":"Bruna",		"Last_Name":"Ribeiro",	"Email":"brRibeiro@gmail.com",	"Date_of_Birth":"1990/08/10",	"NIB":498491264, "Address_Id":1}
+{"Id":7,	"First_Name":"Tommie",		"Last_Name":"Waever",	"Email":"tWeave@gmail.com",		"Date_of_Birth":"1985/02/04",	"NIB":396134274, "Address_Id":1}
+{"Id":8,	"First_Name":"Francisco",	"Last_Name":"Azevedo",	"Email":"xico25Az@gmail.com",	"Date_of_Birth":"1991/10/25",	"NIB":457057832, "Address_Id":4}
+{"Id":9,	"First_Name":"José",		"Last_Name":"Fontes",	"Email":"joFont24@gmail.com",	"Date_of_Birth":"1980/08/24",	"NIB":420841211, "Address_Id":2}
+{"Id":10,	"First_Name":"Lionel",		"Last_Name":"Silva",	"Email":"lionSil13@gmail.com",	"Date_of_Birth":"1992/12/13",	"NIB":390278223, "Address_Id":6}
+{"Id":11,	"First_Name":"Cristiano",	"Last_Name":"Ronaldo",	"Email":"sii@amail.com",		"Date_of_Birth":"1985/09/10",	"NIB":254180787, "Address_Id":7}
+{"Id":12,	"First_Name":"Jorge",		"Last_Name":"Jesus",	"Email":"trident@bmail.com",	"Date_of_Birth":"1971/02/25",	"NIB":454738352, "Address_Id":6}
+{"Id":13,	"First_Name":"José",		"Last_Name":"Sócrates",	"Email":"autoestrada@cmail.com","Date_of_Birth":"2020/05/27",	"NIB":365672625, "Address_Id":5}
+{"Id":14,	"First_Name":"Sá",			"Last_Name":"Pinto",	"Email":"porrada@dmail.com",	"Date_of_Birth":"1973/01/24",	"NIB":133701337, "Address_Id":10}
+{"Id":15,	"First_Name":"Rita",		"Last_Name":"Catita",	"Email":"ritinha123@email.com",	"Date_of_Birth":"1994/11/10",	"NIB":123456789, "Address_Id":5}
